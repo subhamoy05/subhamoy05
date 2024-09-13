@@ -1,4 +1,4 @@
-![logo]([https://github.com/subhamoy05/Subhamoy/blob/main/subhamoy%20saha.png](https://github.com/subhamoy05/subhamoy05/blob/main/subhamoy%20saha.png))
+![logo](https://github.com/subhamoy05/subhamoy05/blob/main/subhamoy%20saha.png)
 <h1 align="center">Hi 👋, I'm SUBHAMOY SAHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
