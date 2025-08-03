@@ -22,7 +22,7 @@
 - 🌐 Real-time APIs, WebSockets, and Cloud Hosting
 
 ### 📂 Featured Projects
-- 🔗 [AI Health Assistant](https://github.com/subhamoy05/ai-health-assistant)
+- 🔗 [AI Health Assistant](https://github.com/subhamoy05/personal-health-assistant)
 - 🌤️ [MEAN Weather App](https://github.com/subhamoy05/Weather-app---using-MEAN-stack)
 - 🎨 [AI Developer Portfolio](https://github.com/subhamoy05/portfolio-ai)
 
