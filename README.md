@@ -22,9 +22,10 @@
 - 🌐 Real-time APIs, WebSockets, and Cloud Hosting
 
 ### 📂 Featured Projects
+
+- 🎨 [Placement Platform](https://placement-platform-sigma.vercel.app/)
 - 🔗 [AI Health Assistant](https://github.com/subhamoy05/personal-health-assistant)
 - 🌤️ [MEAN Weather App](https://github.com/subhamoy05/Weather-app---using-MEAN-stack)
-- 🎨 [AI Developer Portfolio](https://github.com/subhamoy05/portfolio-ai)
 
 ### 📬 Contact Me
 - 📧 Email: `subhamoysaha78@gmail.com`
