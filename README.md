@@ -24,7 +24,7 @@
 ### 📂 Featured Projects
 
 - 🎨 [Placement Platform](https://placement-platform-sigma.vercel.app/)
-- 🔗 [AI Health Assistant](https://github.com/subhamoy05/personal-health-assistant)
+- 🔗 [CollabFlow](https://collabflow-client-gamma.vercel.app/)
 - 🌤️ [MEAN Weather App](https://github.com/subhamoy05/Weather-app---using-MEAN-stack)
 
 ### 📬 Contact Me
